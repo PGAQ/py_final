@@ -1,0 +1,27 @@
+body  {
+  background-image: url("curves bcknd.jpg");
+  background-size: cover;
+  font-family: 'Architects Daughter';
+  font-weight: bold;
+}
+.areas{
+  font-size: 28px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: #7F1793;
+}
+.places{
+  font-size: 22px;
+}
+#home{
+  font-weight: bold;
+  font-size: 20px;
+  margin: 50px ;
+  text-decoration: underline;
+  font-family: 'Architects Daughter';
+  color: #0033cc
+
+}
+a{
+  color: #1B3EF1
+  }/*linkscolor*/
